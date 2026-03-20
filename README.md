@@ -69,6 +69,6 @@ I've led and managed tech projects through **MinTIC** and **SENA** initiatives, 
 
 ## :zap: Recent Activity
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
