@@ -1,8 +1,0 @@
-# .github/recent-activity.config.yml
-user: FeiiDavii
-repo: FeiiDavii
-include:
-  - issues
-  - pull_requests
-  - releases
-  - commits
