@@ -64,3 +64,11 @@ I've led and managed tech projects through **MinTIC** and **SENA** initiatives, 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
+
+---
+
+## :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
